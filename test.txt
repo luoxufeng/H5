@@ -1,1 +1,2 @@
-这是我第二次提交的文件哦
+Git is a distributed version control system.
+Git is free software.
