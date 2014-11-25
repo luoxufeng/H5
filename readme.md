@@ -7,7 +7,9 @@ Git tracks changes.
 
 Creating a new branch is quick & simple. By Master创建
 
-Creating a new branch is quick AND simple.
+Creating a new branch is quick AND simple.Git is free software
 
 再次合并代码
+
+
 
