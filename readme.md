@@ -11,5 +11,9 @@ Creating a new branch is quick AND simple.Git is free software
 
 再次合并代码
 
+ Updated upstream
 
+
+这是我修改bug之前修改的
+ Stashed changes
 
